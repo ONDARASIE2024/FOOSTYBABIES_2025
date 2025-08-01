@@ -1,3 +1,3 @@
-# FOOSTYBABIES_2025
-How pleasurable it is to meet your acquaintance. This software is to 
-establish a solid foundation giving hope 
+<a class="button sponsor" href="#sponsor-form">Become a Sponsor</a>
+<a class="button shop" href="https://your-ecwid-store.com">Shop Now</a>
+...
